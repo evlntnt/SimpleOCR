@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4" ModuleId="OCRFilesMaker" />
+  <Module PersistentId="4D59552F-32C6-41AA-8A86-6589640CA333" ModuleId="OCRTester" />
+</Modules>

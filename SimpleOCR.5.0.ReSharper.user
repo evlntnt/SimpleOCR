@@ -1,0 +1,57 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRSymbol.cs" caret="923" fromTop="30" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:ImportForm.cs" caret="208" fromTop="7" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRFont.cs" caret="614" fromTop="21" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="3429" fromTop="21" />
+      <File id="4D59552F-32C6-41AA-8A86-6589640CA333/f:Form1.cs" caret="1851" fromTop="19" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRReader.cs" caret="9985" fromTop="40" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRFont.cs" caret="1207" fromTop="42" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRReader.cs" caret="11852" fromTop="345" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRSymbol.cs" caret="3650" fromTop="3" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRSymbol.cs" caret="3702" fromTop="123" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRSymbol.cs" caret="316" fromTop="10" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRSymbol.cs" caret="3697" fromTop="48" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRSymbol.cs" caret="662" fromTop="19" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRReader.cs" caret="608" fromTop="16" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRReader.cs" caret="4024" fromTop="15" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRReader.cs" caret="4278" fromTop="22" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:ImportForm.cs" caret="399" fromTop="16" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:ImportForm.cs" caret="208" fromTop="7" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="578" fromTop="24" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="208" fromTop="7" />
+      <File id="4D59552F-32C6-41AA-8A86-6589640CA333/f:Form1.cs" caret="405" fromTop="20" />
+      <File id="4D59552F-32C6-41AA-8A86-6589640CA333/f:Form1.cs" caret="208" fromTop="7" />
+      <File id="A00D9BD2-5851-497F-97C6-41E973CDD119/f:OCRFont.cs" caret="1207" fromTop="21" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="3240" fromTop="13" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="7650" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Image`0" priority="0" />
+      <Item value="Bitmap`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

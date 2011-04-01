@@ -1,0 +1,413 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:NewFontForm.cs" caret="1222" fromTop="28" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:ImportForm.cs" caret="2023" fromTop="0" />
+      <File id="4D59552F-32C6-41AA-8A86-6589640CA333/f:Form1.cs" caret="397" fromTop="17" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:Program.cs" caret="486" fromTop="17" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="995" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="7250" fromTop="31" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="7490" fromTop="31" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="4684" fromTop="25" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:ImportForm.cs" caret="2946" fromTop="24" />
+      <File id="4D59552F-32C6-41AA-8A86-6589640CA333/f:Form1.cs" caret="900" fromTop="26" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:Program.cs" caret="498" fromTop="17" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:Program.cs" caret="336" fromTop="14" />
+      <File id="4D59552F-32C6-41AA-8A86-6589640CA333/f:Form1.cs" caret="397" fromTop="17" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="643" fromTop="22" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="700" fromTop="16" />
+      <File id="FD6C5EA6-A8F4-43C2-A2C4-AFB3A19D80A4/f:MainForm.cs" caret="551" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="18" />
+      <Item value="string" priority="13" />
+      <Item value="int" priority="23" />
+      <Item value="OCRSymbol`0" priority="6" />
+      <Item value="Name" priority="1" />
+      <Item value="name" priority="0" />
+      <Item value="Width" priority="1" />
+      <Item value="width" priority="5" />
+      <Item value="Height" priority="1" />
+      <Item value="override" priority="0" />
+      <Item value="List" priority="9" />
+      <Item value="Point`0" priority="6" />
+      <Item value="null" priority="3" />
+      <Item value="if" priority="21" />
+      <Item value="good" priority="1" />
+      <Item value="Good" priority="1" />
+      <Item value="new" priority="33" />
+      <Item value="List&lt;Point&gt;" priority="2" />
+      <Item value="else" priority="8" />
+      <Item value="bad" priority="2" />
+      <Item value="Bad" priority="1" />
+      <Item value="Serializable" priority="0" />
+      <Item value="void" priority="3" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="4" />
+      <Item value="Runtime" priority="1" />
+      <Item value="Serialization.Formatters.Binary" priority="0" />
+      <Item value="Serialization" priority="0" />
+      <Item value="var" priority="45" />
+      <Item value="BinaryFormatter`0" priority="1" />
+      <Item value="fn" priority="1" />
+      <Item value="Create" priority="1" />
+      <Item value="Write" priority="1" />
+      <Item value="fs" priority="2" />
+      <Item value="bs" priority="1" />
+      <Item value="static" priority="2" />
+      <Item value="OCRFont`0" priority="8" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="Read" priority="0" />
+      <Item value="return" priority="17" />
+      <Item value="font" priority="1" />
+      <Item value="Symbols" priority="0" />
+      <Item value="List&lt;OCRSymbol&gt;" priority="2" />
+      <Item value="MaxFontHeight" priority="0" />
+      <Item value="height" priority="2" />
+      <Item value="MaxFontWidth" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="PictureBox`0" priority="1" />
+      <Item value="img" priority="28" />
+      <Item value="Graphics`0" priority="1" />
+      <Item value="g" priority="3" />
+      <Item value="Brushes`0" priority="3" />
+      <Item value="Region" priority="0" />
+      <Item value="Rectangle" priority="6" />
+      <Item value="DrawImg`0" priority="4" />
+      <Item value="Image`0" priority="2" />
+      <Item value="Bitmap`0" priority="9" />
+      <Item value="pic" priority="5" />
+      <Item value="for" priority="3" />
+      <Item value="i" priority="11" />
+      <Item value="Pen`0" priority="0" />
+      <Item value="Pen" priority="0" />
+      <Item value="Point" priority="8" />
+      <Item value="Cell" priority="9" />
+      <Item value="GetSelectedCell`0" priority="1" />
+      <Item value="e" priority="0" />
+      <Item value="y" priority="0" />
+      <Item value="Math`0" priority="1" />
+      <Item value="CellsCount" priority="7" />
+      <Item value="p" priority="1" />
+      <Item value="selectedX" priority="1" />
+      <Item value="selectedY" priority="1" />
+      <Item value="float" priority="0" />
+      <Item value="Rectangle`0" priority="0" />
+      <Item value="Close`0" priority="4" />
+      <Item value="bool" priority="1" />
+      <Item value="ClosedByOK" priority="1" />
+      <Item value="false" priority="6" />
+      <Item value="radioButton1" priority="0" />
+      <Item value="radioButton2" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="Font`0" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="OCRFont" priority="2" />
+      <Item value="Int32`0" priority="2" />
+      <Item value="textBox1" priority="6" />
+      <Item value="textBox2" priority="3" />
+      <Item value="OCRSymbol" priority="0" />
+      <Item value="true" priority="3" />
+      <Item value="NewFontForm`0" priority="2" />
+      <Item value="w" priority="1" />
+      <Item value="_font" priority="9" />
+      <Item value="listBox1" priority="7" />
+      <Item value="foreach" priority="5" />
+      <Item value="in" priority="2" />
+      <Item value="ReloadFont`0" priority="3" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="dlg" priority="4" />
+      <Item value="OK" priority="1" />
+      <Item value="OpenFileDialog`0" priority="0" />
+      <Item value="_selected" priority="21" />
+      <Item value="MouseButtons`0" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="Message`0" priority="1" />
+      <Item value="MessageBox`0" priority="3" />
+      <Item value="FolderBrowserDialog`0" priority="0" />
+      <Item value="ImportForm`0" priority="2" />
+      <Item value="label1" priority="0" />
+      <Item value="ClosedByOk" priority="1" />
+      <Item value="AllDirectories" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="fileInfo" priority="2" />
+      <Item value="_dir" priority="0" />
+      <Item value="DirectoryInfo`0" priority="0" />
+      <Item value="RGB" priority="3" />
+      <Item value="textBox3" priority="0" />
+      <Item value="pixel" priority="1" />
+      <Item value="symbols" priority="4" />
+      <Item value="Font" priority="7" />
+      <Item value="maxHeight" priority="2" />
+      <Item value="cell" priority="1" />
+      <Item value="ConsoleColor`0" priority="1" />
+      <Item value="Background" priority="7" />
+      <Item value="background" priority="0" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="OutOfMemoryException`0" priority="0" />
+      <Item value="pix" priority="5" />
+      <Item value="crop" priority="1" />
+      <Item value="break" priority="4" />
+      <Item value="topCrop" priority="3" />
+      <Item value="Format8bppIndexed" priority="1" />
+      <Item value="_reader" priority="4" />
+      <Item value="OCRReader" priority="0" />
+      <Item value="Color" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="pictureBox1" priority="3" />
+      <Item value="pictureBox2" priority="3" />
+      <Item value="bottomCrop" priority="0" />
+      <Item value="leftCrop" priority="2" />
+      <Item value="s" priority="10" />
+      <Item value="point" priority="3" />
+      <Item value="yes" priority="3" />
+      <Item value="continue" priority="0" />
+      <Item value="symb" priority="8" />
+      <Item value="correct" priority="0" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="button1" priority="0" />
+      <Item value="time" priority="0" />
+      <Item value="Crop`0" priority="6" />
+      <Item value="dollarWidth" priority="1" />
+      <Item value="withoutDollar" priority="0" />
+      <Item value="cr" priority="8" />
+      <Item value="PlayerStackDollarWidth" priority="2" />
+      <Item value="c" priority="1" />
+      <Item value="PlayerStackDotWidth" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="position" priority="0" />
+      <Item value="currentImg" priority="1" />
+      <Item value="Crop" priority="1" />
+      <Item value="RecognizeSymbol`0" priority="0" />
+      <Item value="ref" priority="0" />
+      <Item value="curImg" priority="6" />
+      <Item value="stack" priority="3" />
+      <Item value="out" priority="0" />
+      <Item value="last" priority="1" />
+      <Item value="cropedImg" priority="1" />
+      <Item value="TopOffset" priority="0" />
+      <Item value="offset" priority="0" />
+      <Item value="CropLeft`0" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="Environment`0" priority="1" />
+      <Item value="Length" priority="1" />
+      <Item value="prms" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Close`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Serialize`0" priority="0" />
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Graphics">
+      <Item value="FromImage`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="10" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="FillRegion`0" priority="0" />
+      <Item value="ReleaseHdc`0" priority="0" />
+      <Item value="DrawLine`0" priority="0" />
+      <Item value="FillRectangle`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Brushes">
+      <Item value="White" priority="0" />
+      <Item value="Black" priority="0" />
+      <Item value="Gray" priority="0" />
+      <Item value="Green" priority="0" />
+      <Item value="Red" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Height" priority="11" />
+      <Item value="Width" priority="12" />
+      <Item value="GetPixel`0" priority="2" />
+      <Item value="Clone`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseEventArgs">
+      <Item value="X" priority="2" />
+      <Item value="Y" priority="1" />
+      <Item value="Button" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Truncate`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="7" />
+      <Item value="Y" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OCRFilesMaker.NewFontForm">
+      <Item value="Font" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OCRFilesMaker.OCR.OCRFont">
+      <Item value="Symbols" priority="9" />
+      <Item value="MaxFontWidth" priority="0" />
+      <Item value="MaxFontHeight" priority="1" />
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="6" />
+      <Item value="Where`1" priority="2" />
+      <Item value="Max`2" priority="1" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OCRFilesMaker.NewFontForm">
+      <Item value="ClosedByOK" priority="0" />
+      <Item value="Font" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="2" />
+      <Item value="SelectedIndex" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Filter" priority="0" />
+      <Item value="FileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OCRFilesMaker.OCR.OCRFont">
+      <Item value="Load`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OCRFilesMaker.OCR.OCRSymbol">
+      <Item value="Good" priority="6" />
+      <Item value="Bad" priority="3" />
+      <Item value="Width" priority="14" />
+      <Item value="Height" priority="7" />
+      <Item value="Name" priority="9" />
+      <Item value="Compare`0" priority="0" />
+      <Item value="TopOffset" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MouseButtons">
+      <Item value="Left" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Single`1" priority="2" />
+      <Item value="Concat`1" priority="0" />
+      <Item value="Contains`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="RootFolder" priority="0" />
+      <Item value="SelectedPath" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OCRFilesMaker.ImportForm">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="GetFiles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Name" priority="1" />
+      <Item value="FullName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="0" />
+      <Item value="LastIndexOf`0" priority="0" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="R" priority="4" />
+      <Item value="G" priority="4" />
+      <Item value="B" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OCRFilesMaker.ImportForm">
+      <Item value="ClosedByOk" priority="0" />
+      <Item value="Font" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Black" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OCRFilesMaker.OCR.OCRReader">
+      <Item value="Crop`0" priority="0" />
+      <Item value="RecognizeSymbol`0" priority="0" />
+      <Item value="RecognizePlayerStack`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMilliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AForge.Imaging.Filters.Crop">
+      <Item value="Apply`0" priority="4" />
+      <Item value="FormatTranslations" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="CommandLine" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

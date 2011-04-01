@@ -1,0 +1,11 @@
+D:\SimpleOCR\SimpleOCR\obj\Debug\ResolveAssemblyReference.cache
+D:\SimpleOCR\SimpleOCR\bin\Debug\SimpleOCR.dll
+D:\SimpleOCR\SimpleOCR\bin\Debug\SimpleOCR.pdb
+D:\SimpleOCR\SimpleOCR\bin\Debug\AForge.Imaging.dll
+D:\SimpleOCR\SimpleOCR\bin\Debug\AForge.dll
+D:\SimpleOCR\SimpleOCR\bin\Debug\AForge.Math.dll
+D:\SimpleOCR\SimpleOCR\bin\Debug\AForge.Imaging.xml
+D:\SimpleOCR\SimpleOCR\bin\Debug\AForge.xml
+D:\SimpleOCR\SimpleOCR\bin\Debug\AForge.Math.xml
+D:\SimpleOCR\SimpleOCR\obj\Debug\SimpleOCR.dll
+D:\SimpleOCR\SimpleOCR\obj\Debug\SimpleOCR.pdb
